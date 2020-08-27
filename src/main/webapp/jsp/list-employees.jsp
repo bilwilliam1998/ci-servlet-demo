@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css" >   		
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js" ></script>        
-	    <title>List Of Employees</title>
+	    <title>Employee's Data</title>
     </head>
 
     <body bgcolor="dracula">          
